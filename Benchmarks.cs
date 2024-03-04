@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PortaOne
 {
-    [MemoryDiagnoser]
+    
     public class Benchmark
     {
         [Benchmark]

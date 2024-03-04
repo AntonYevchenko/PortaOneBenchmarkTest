@@ -48,7 +48,7 @@ namespace PortaOne
             }
 
             BenchmarkRunner.Run<Benchmark>();
-            
+
         }
     }
 }
